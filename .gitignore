@@ -9,12 +9,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Ignore dataset and model files 
-Dataset/
-*.pkl
-*.h5
-*.csv
-*.zip
 
 # Ignore IDE and OS files
 .vscode/
