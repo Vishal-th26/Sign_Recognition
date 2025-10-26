@@ -1,0 +1,22 @@
+# Ignore virtual environment
+signenv/
+venv/
+env/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore dataset and model files 
+Dataset/
+*.pkl
+*.h5
+*.csv
+*.zip
+
+# Ignore IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
